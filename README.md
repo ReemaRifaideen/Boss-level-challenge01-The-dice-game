@@ -1,4 +1,6 @@
 # 🎲 Boss-level-challenge01-The-dice-game
+## Play the Game  
+https://reemarifaideen.github.io/Boss-level-challenge01-The-dice-game/
 
 ## Overview
 An interactive two-player dice game built with vanilla JavaScript, HTML, and CSS. Players compete by rolling virtual dice to accumulate points and win rounds.
@@ -51,7 +53,7 @@ Simply open `index.html` in your web browser to start playing!
 - `images/` - Dice images (dice1.png through dice6.png)
 
 ## Author
-[ReemaRifaideen (Reema)](https://github.com/ReemaRifaideen)
+(https://github.com/ReemaRifaideen)
 
 Created as a boss-level challenge project to practice web development skills with JavaScript, HTML, and CSS.
 
